@@ -1,8 +1,6 @@
 {
-  "user":{
-    "id":1,
-    "firstName":"Anthony",
-    "lastName":"Migtr"
-    
-  }
+"id":1,
+  "name":"aman",
+  "username":"amanCh",
+  "mobileNo":"9865543258"
 }
